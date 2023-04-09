@@ -1,7 +1,10 @@
 
 
 # python-textblob
-Based Noah Gift's video on python function 
 
-[Here is Noah Gift's youtube video link](https://youtu.be/Wgyf66JXmhY)
+Based on Noah Gift's [youtube video](https://youtu.be/Wgyf66JXmhY) from Python Devop Class
 
+## Buiding a scaffold by
+1. Create a Makefile
+2. Add a requirements.txt
+3. 
